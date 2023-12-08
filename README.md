@@ -24,5 +24,5 @@ The success of "Deadpool" led to the development of a sequel, "Deadpool 2," rele
 
 ---
 
-*Note: This is a basic representation using Markdown syntax for formatting. For a more visually appealing display, consider using a Markdown editor or viewer.*
+
 
